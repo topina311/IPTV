@@ -1,13 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",7HD
-https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png",Thairath
-https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 
-#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",MCOTHD
-https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+http://dootvthai-hd.com:80/cmd/true/NBT-HD/playlist.m3u8
 
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
+#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV ThaiPBS
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+#EXTINF:-1 group-title="Kid" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",Boomerang
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",Channel 8  
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
 
