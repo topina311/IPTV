@@ -1,8 +1,104 @@
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
-http://dootvthai-hd.com:80/cmd/true/NBT-HD/playlist.m3u8
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="ThaiTV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV ThaiPBS
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN Philippines
+http://27.254.149.109:8081/tumlive/cnn.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News (GB)
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-021211.jpg",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061119.jpg",ALJAZEERA
+https://cdn6.goprimetime.info/feed/chaljazaara/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061309.jpg",CNA
+https://cdn6.goprimetime.info/feed/LC16/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/roiCN0IiRtHxs6oqLR9wLs5unEH5VjFyfPSCLUm0.png",Fox News
+http://27.254.149.109:8081/tumlive/Foxnew/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2009/08/espn-300x300.jpg",espn
+https://shopp180.com:443/espn/hd/chunks.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmdEsRdX6PQ-2OXtpEcmTCbD16h4DHD_Bt1HEd8Qe7cfR5jAUf&usqp=CAU",BreaKingNew
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPiWNd9u1NjtdCf8oCZRksGD5bYYSRmtxpxp4D0ht-aGLGyhoi&usqp=CAU",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png",Fox Sport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWCergz-_N04rDPKv1w_s1lBCjj2pQ4upbA_AritmJJSNSxnYy&usqp=CAU",TVBS HD
+http://60.199.188.65:80/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-x9uGbiIj5lr0Ogt7wMRQqWX02tnhtYlveP5maY31msBYlqzu&usqp=CAU",NDTV24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK WORLD
+https://cdn6.goprimetime.info/feed/chnhkworld/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK WORLD(JAPAN)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK WORLD(JAPAN)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK Chinese
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://pmcdeadline2.files.wordpress.com/2019/09/fox-business-network-logo-2019.jpg",FOX Business
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://static-s.aa-cdn.net/img/amazon/30600000516579/dbdb81e17aaf22b817a4b2af4fce5214?v=1",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTX20IkMvYlbDMAltKmZVAcxyNkeXVAM5jwR2gZHrovTh0tsg_1&usqp=CAU",SKY NEWS EXTRA
+http://skynewsau-live.akamaized.net:80/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTX20IkMvYlbDMAltKmZVAcxyNkeXVAM5jwR2gZHrovTh0tsg_1&usqp=CAU",SKY NEWS EXTRA
+http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQggG7hN-oaaI2ePkXyvn5ezQv5Txg_JALeUKSXTjparz3pKgqu&usqp=CAU",Australia channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU",NBC
+http://161.0.157.50:80/PLTV/88888888/224/3221227040/3.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5XaKHdyBcjZYVQROkrhUY4f44RedFQCRkWpZmWbgCJjXrxttU&usqp=CAU",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8 
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQfU9vXHAW7gjWOniBAmVOcmrRrIxFq6PsXtRBVTW4clGd4uo7&usqp=CAU",,Russia Today
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFBxVut_-sWyaiu8h0kGDpKM7hnoQI-CiztS7hT97tDxKcgA9v&usqp=CAU",CBS 47
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXUcB_tNtVH2C9WS2lT_WPVPlD0a0sZB476pwN61jBt1B1cqEk&usqp=CAU",CBS N
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu0DhOkrsAsVgwODBraFa7A-zxYaAdt72_8ChoPSXTtAANXy6E&usqp=CAU",US:CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4MCajdFb989lDLSd097RXfqbWGk4Jaro1VmiOp-h1_y6m9zfs&usqp=CAU",Cheddar News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEk_vosGsm5Q4IQIKiUoEzMvS52M1NhNMUgHwVuK5VtW57aiC9&usqp=CAU",boston 25
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiHfKo6Ju-5fi3vT77_dCtVmNvluaTBxphgeWnbZBTmoZv6gb1&usqp=CAU",kiro 7 new
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiHfKo6Ju-5fi3vT77_dCtVmNvluaTBxphgeWnbZBTmoZv6gb1&usqp=CAU",ABC 2
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkFrNxcIUBTX7n3GXdQBzhoaZpYjxufaqq3LG615LGiHOk0M6G&usqp=CAU",24 HD
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWe3X1T7dHWt6rKU37pTcbhF9tzjbSuT3Ts8d9E7cqMCrox1lF&usqp=CAU",TVO
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrzr1z_Qc6FT-DjHu_y407yG_IrqNHRUOaneipAkWfWaYcqUSF&usqp=CAU",MNP
+http://hls.mirtv.cdnvideo.ru:80/mirtv-parampublish/mirtv_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdfYoUYXmJIoxjyQCsoNTwpH0N0kNmFtdw0yKXKjHoj2DDD-S6&usqp=CAU",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBWtCVwwtZt6HiYO8siCYbEOYfy84ZVkM4qqbP4F64Q5tSl0Xh&usqp=CAU",NEWSNET
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHmlUjoP-1lSH_R-kBDHGLTh0uTrTnz8r5wo7WMCH08sdUD7qj&usqp=CAU",WeatherNation
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-tv5pacific.png",TV5Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/17/a6b13167-4067-4797-a04f-7e90c525b0c8.png",DW News
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/17/a6b13167-4067-4797-a04f-7e90c525b0c8.png",DW News(DE)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+TINF:-1 group-title="Variety" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/17/a6b13167-4067-4797-a04f-7e90c525b0c8.png",DW News(???)
+https://cdn6.goprimetime.info/feed/LC12/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png",RT UK (RU)
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TeleSUR (VE)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",US:Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo50yYGeeEfyBofJpLk6cm1q1s1P3L6g5ixrztiOkztHHgiUaf&usqp=CAU",US:SBN Global
+http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061744.jpg",,Arirand KOREA
+https://cdn6.goprimetime.info/feed/chariang/index.m3u8
